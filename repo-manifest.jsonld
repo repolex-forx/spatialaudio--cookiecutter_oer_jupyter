@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spatialaudio/cookiecutter_oer_jupyter/commit/4a808575cc77e8ef77a79206728d6412d50cc593",
       "git:hexsha": "4a808575cc77e8ef77a79206728d6412d50cc593",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
